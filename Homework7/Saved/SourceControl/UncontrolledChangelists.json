@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/About git/Homework_7/Homework7/Content/MainLevel.umap",
+				"C:/About git/Homework_7/Homework7/Content/Maps/MainLevel.umap",
+				"C:/About git/Homework_7/Homework7/Content/Blueprints/BP_MyGameMode.uasset",
+				"C:/About git/Homework_7/Homework7/Content/Blueprints/BP_MyPawn.uasset",
+				"C:/About git/Homework_7/Homework7/Content/Blueprints/BP_MyPlayerController.uasset",
+				"C:/About git/Homework_7/Homework7/Content/Inputs/IA_Jump.uasset",
+				"C:/About git/Homework_7/Homework7/Content/Inputs/IA_Move.uasset",
+				"C:/About git/Homework_7/Homework7/Content/Inputs/IA_Look.uasset",
+				"C:/About git/Homework_7/Homework7/Content/Inputs/IMC_Pawn.uasset"
+			]
+		}
+	]
+}

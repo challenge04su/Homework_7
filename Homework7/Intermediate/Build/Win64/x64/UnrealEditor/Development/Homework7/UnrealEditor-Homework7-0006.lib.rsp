@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Homework7-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\Homework7Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\Homework7.init.gen.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\MyGameMode.gen.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\MyPawn.gen.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\MyPlayerController.gen.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\Homework7.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\MyGameMode.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\MyPawn.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\MyPlayerController.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\PerModuleInline.gen.cpp.obj"
+"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\Default.rc2.res"
+/OUT:"C:\About git\Homework_7\Homework7\Intermediate\Build\Win64\x64\UnrealEditor\Development\Homework7\UnrealEditor-Homework7-0006.lib"

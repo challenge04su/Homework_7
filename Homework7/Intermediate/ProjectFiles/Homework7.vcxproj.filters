@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Homework7.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Homework7.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Homework7Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Homework7">
+      <UniqueIdentifier>{F7D8A9BA-B9B2-3E4A-BFEE-490B8DE2A701}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Homework7\Homework7.Build.cs">
+      <Filter>Source\Homework7</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Homework7\Homework7.cpp">
+      <Filter>Source\Homework7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Homework7\Homework7.h">
+      <Filter>Source\Homework7</Filter>
+    </ClCompile>
+    <Filter Include="Source\Homework7\Private">
+      <UniqueIdentifier>{35957452-D29F-34AC-8C8C-E6726978E437}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Homework7\Private\MyGameMode.cpp">
+      <Filter>Source\Homework7\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Homework7\Private\MyPawn.cpp">
+      <Filter>Source\Homework7\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Homework7\Private\MyPlayerController.cpp">
+      <Filter>Source\Homework7\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Homework7\Public">
+      <UniqueIdentifier>{C3C785D0-230A-37F8-BF80-379E4B46337B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Homework7\Public\MyGameMode.h">
+      <Filter>Source\Homework7\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Homework7\Public\MyPawn.h">
+      <Filter>Source\Homework7\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Homework7\Public\MyPlayerController.h">
+      <Filter>Source\Homework7\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
